@@ -23,7 +23,7 @@ social:
 - icon: ""
   icon_pack: fab
   link: ""
-superuser: true
+superuser: false
 user_groups:
 - Researchers
 - Visitors
